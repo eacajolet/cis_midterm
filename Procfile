@@ -1,0 +1,1 @@
+web: gunicorn cis_midterm.wsgi --log-file -
